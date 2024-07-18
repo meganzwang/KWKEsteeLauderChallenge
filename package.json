@@ -1,0 +1,20 @@
+{
+  "name": "kwkesteelauderchallenge",
+  "version": "1.0.0",
+  "main": "page2.js",
+  "scripts": {
+    "start": "open index.html",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
+  }
+}
