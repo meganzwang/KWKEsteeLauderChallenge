@@ -1,0 +1,74 @@
+body{
+  display: flex;
+ text-align: center;
+ background-color: #000327;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+
+}
+img{
+  align-items: center;
+  vertical-align: center;
+}
+.estee {
+  margin-top: 10%;
+}
+p{
+  color: white;
+  font-family: 'Marcellus', serif;
+
+}
+button{
+  background-color:#000327; 
+  color: #ff1d8e;
+  font-family: 'Marcellus', serif;
+  padding: 15px;
+  font-size: 145%;
+  border: white solid 2px;
+  width: 40%;
+  align-self: center;
+  margin-bottom:10%;
+}
+a{
+    color: #ff1d8e;
+      text-decoration: none;
+
+
+}
+button:hover{
+  background-color: #ADD3D0;
+}
+.dwear{
+  font-size: 170%;
+  margin-bottom: 0%;
+}
+.confidence{
+  font-size: 150%;
+}
+.animate__animated.animate__fadeIn{
+  --animate-duration: 5s;
+}
+.animate__animated.animate__fadeInDown{
+  --animate-duration: 3s;
+}
+@media screen and (max-width: 900px) {
+  .estee{
+    width: 100%;
+    margin-top: 30%;
+
+  }
+  .dwear{
+    font-size: 100%;
+  }
+  .confidence{
+    font-size: 100%;
+  }
+  button{
+      font-size: 90%;
+        width: 50%;
+        margin-bottom: 30%;
+       
+
+  }
+}
