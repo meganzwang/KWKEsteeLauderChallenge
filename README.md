@@ -19,6 +19,7 @@ Make sure you have Node.js and npm installed on your machine.
    git clone https://github.com/yourusername/project-name.git
 2. **Navigate into the project directory:**
    ```sh
+   cd KWKEsteeLauderChallenge
 3. **Install dependencies:**
    ```sh
    npm install
