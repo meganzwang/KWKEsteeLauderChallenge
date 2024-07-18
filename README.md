@@ -2,7 +2,9 @@
 
 ## Description
 
-This is one of my first coding projects, completed in July 2021 as a part of Kode with Klossy summer programming!
+This project, completed in July 2021 as a part of Kode with Klossy summer programming, marks the very beginning of my coding journey!
+Through this initial exploratory project, I aimed to create a simple interactive web application to market one of Estee Lauder's new skincare lines. 
+While this project is severely lacking in good practice and sophistication by my current standards, I've since come a long way and am pushing this project to showcase a personal foundational milestone for future reference. 
 
 ## Getting Started
 
